@@ -247,18 +247,3 @@ const socialMediaLinks = [
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
 ];
-
-export {
-  settings,
-  seo,
-  greeting,
-  socialMediaLinks,
-  skills,
-  competitiveSites,
-  projectsHeader,
-  contactPageData,
-  projectcards,
-  certifications,
-  resumeleft,
-  resumeright,
-};
